@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">underlinedemo</string>
+    <string name="textView"><u>1. By Resource</u></string>
+    <string name="yourMotherIsGood"><u>我同意「你媽很好」條款</u></string>
+    <string name="myMotherIsGood">我同意「我媽很好」條款</string>
+    <string name="hisMotherIsGood">我同意<u>「他媽很好」</u>條款</string>
+</resources>
